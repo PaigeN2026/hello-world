@@ -9,6 +9,8 @@
 
 **bold** 
 
+~~line through~~
+
 * unordered
 * list
 
